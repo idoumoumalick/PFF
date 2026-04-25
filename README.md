@@ -6,6 +6,13 @@ Système Hybride de Détection d'Intrusion Réseau combinant:
 - **Moteur Rule-Based**: Détection d'attaques connues (Port Scan, Brute Force, Flood/DoS)
 - **Machine Learning Supervisé**: Classification avec Random Forest/XGBoost
 
+## 🎓 Objectif
+
+Ce projet a été réalisé pour:
+- Comprendre les systèmes IDS
+- Appliquer le Machine Learning en cybersécurité
+- Combiner Rule-Based et ML
+
 ## 🏗️ Architecture
 
 ```
@@ -134,6 +141,9 @@ Le système évalue:
 - **Pandas/NumPy** - Traitement des données
 
 ## 📝 Auteur
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Flask](https://img.shields.io/badge/Flask-WebApp-green)
+![ML](https://img.shields.io/badge/MachineLearning-RF%2FXGBoost-orange)
 
 Projet de Fin d'Études - Spécialité MI
 
