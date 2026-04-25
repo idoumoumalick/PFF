@@ -140,7 +140,15 @@ Le système évalue:
 - **MySQL** - Base de données
 - **Pandas/NumPy** - Traitement des données
 
-## 📝 Auteur
+  ## ⚠️ Limitations
+
+- Dépendance au dataset UNSW-NB15
+- Sensible aux attaques inconnues
+- Nécessite optimisation temps réel
+
+## 📝 Auteur  
+-**Idoumou Malick**
+-
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Flask](https://img.shields.io/badge/Flask-WebApp-green)
 ![ML](https://img.shields.io/badge/MachineLearning-RF%2FXGBoost-orange)
