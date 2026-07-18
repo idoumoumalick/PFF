@@ -4,8 +4,7 @@
 
 Système Hybride de Détection d'Intrusion Réseau combinant:
 - **Moteur Rule-Based**: Détection d'attaques connues (Port Scan, Brute Force, Flood/DoS)
-- **Machine Learning Supervisé**: Classification avec Random Forest/XGBoost
-
+- **Machine Learning Supervisé**: Classification avec Random Forest
 ## 🎓 Objectif
 
 Ce projet a été réalisé pour:
@@ -29,12 +28,12 @@ ids_hybride_project/
 ├── data/                  # Dataset UNSW-NB15
 │   ├── UNSW_NB15_training-set.csv
 │   └── UNSW_NB15_testing-set.csv
-├── models/                # Modèles sauvegardés
-├── templates/             # Templates HTML
+├── models/             # Modèles sauvegardés
+├── templates/          # Templates HTML
 │   ├── base.html
 │   ├── dashboard.html
 │   └── alerts.html
-└── static/                # Fichiers statiques
+└── static/             # Fichiers statiques
 ```
 
 ## 🚀 Installation
@@ -120,7 +119,7 @@ stats = detector.evaluate_system('data/test.csv')
 Modifier `config.py` pour:
 - Seuils de détection Rule-Based
 - Seuil de confiance ML
-- Type de modèle (random_forest/xgboost)
+- Type de modèle (random_forest)
 - Connexion MySQL
 
 ## 📈 Métriques
