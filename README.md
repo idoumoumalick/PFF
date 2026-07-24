@@ -132,7 +132,7 @@ Le système évalue:
 
 ## 🔧 Technologies
 
-- **Python 3.8+**
+- **Python 3.15+**
 - **Flask** - Interface Web
 - **Scikit-learn** - Machine Learning
 - **XGBoost** - Modèle alternatif
