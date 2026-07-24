@@ -135,7 +135,6 @@ Le système évalue:
 - **Python 3.15+**
 - **Flask** - Interface Web
 - **Scikit-learn** - Machine Learning
-- **XGBoost** - Modèle alternatif
 - **MySQL** - Base de données
 - **Pandas/NumPy** - Traitement des données
 
