@@ -148,7 +148,7 @@ Le système évalue:
 ## 📝 Auteur  
 -**Idoumou Malick**
 -
-![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Python](https://img.shields.io/badge/Python-3.15-blue)
 ![Flask](https://img.shields.io/badge/Flask-WebApp-green)
 ![ML](https://img.shields.io/badge/MachineLearning-RF%2FXGBoost-orange)
 
